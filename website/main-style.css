@@ -1,0 +1,18 @@
+.heading{
+	color: #ffffff; 
+	font-size:70px;
+	text-decoration:strong; 
+	text-align:center;
+	letter-spacing: 3px;
+	text-shadow: 2px 2px #47b4dd;
+	font-family:Georgia;
+	font-variant:small-caps;
+}
+.heading2{
+	color: #ffffff; 
+	font-size:30px;
+	text-decoration:strong; 
+	text-align:center;
+	letter-spacing: 1px;
+	font-family:Georgia;
+}
